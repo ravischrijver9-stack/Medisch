@@ -20,7 +20,6 @@
                     <span class="text-4xl text-blue-600 mr-2"><i data-lucide="folder-open"></i></span>
                     <h1 class="text-3xl font-extrabold text-gray-800">Dossier Beheer Systeem</h1>
                 </div>
-                <p class="text-lg text-gray-500 font-medium">Simulatie voor Speldoeleinden (Persistent Game Mode)</p>
             </header>
 
             <!-- Login kaart -->
